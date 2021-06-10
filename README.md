@@ -1,3 +1,17 @@
+# Team Ho Seh Bo?
+*Loh Pei Yi, Alekhaya Datta, Teo Kang Qi*
+Named after the catchy, lighthearted Hokkien phrase used in our everyday banter with fellow Singaporeans, our team hopes to bridge the gap between frontliners' mental wellbeing and COVID-19 response, using technology as an enabler. Just as how 'Ho Seh Bo?' comes as a natural conversation starter, we hope for our innovation to be easily accessible and yet serve as a platform for human connection and assistance, providing a virtual hug of assistance to its users.
+
+# Chosen Question
+As we emerge stronger from COVID-19, how might we leverage technology to evolve emergency response and public safety strategies to enhance the capability and resilience of SCDF to respond better in a pandemic situation? 
+
+# Problem Statement
+
+
+# Pitch Video
+
+
+
 # MoodWatchers
 
 MoodWatchers is an Mobile Application using Flutter and Dart for the SCDF Innovation Challenge. The demo of the app is here : https://app.flutterflow.io/share/kkkk-91x39l
