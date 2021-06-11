@@ -13,10 +13,14 @@ Overall, the uncertainty, panic and isolation brought about by COVID-19 has take
 
 SCDF’s increasing focus on health and human potential has been comforting, with its recent push of smart watchers for frontliners by 2022, in line with endeavours to build a smart fire station in Punggol. Yet, the proposed smart watches primarily measure heart rate for better curating training programmes, and presently do not measure other biological indicators. Beyond physical capabilities, the mental health of SCDF frontliners should be viewed as equally, if not more important than physical health, for both are essential in order to empower first responders to render assistance at peak efficacy. Should frontliners’ mental wellbeing fall through the cracks, the excessive occupational stress can escalate to burnout or struggles with mental health. Left unchecked, this can hamper several core tenets of frontliners’ scope of work, from interpersonal interactions to making rapid, sound decisions. While we are heartened that the Emergency Behavioural Sciences and Care (EBSC) Unit in SCDF are taking concrete measures to address the emotional concerns of frontliners, there still exists a stigma around help-seeking behaviour in the face of mental health issues, which has perpetuated in a conservative Asian society like Singapore. 
 
+These concerns and limitations have therefore propelled us to propose the following solution, to bolster support systems for SCDF personnel even amidst these times of social distancing, fortifying its resilience in a post-COVID-19 world.
+
 # Our Idea: MoodWatcher
 "MoodWatcher" is a word play of 'watch' - representing both the literal smartwatches that the system can be embedded within, as well as the figurative act of watching and monitoring one's mental health through an interactive mobile application. It is an integrated system comprising smartwatch-integrable sensing devices, cloud-based processing and a user-friendly app, to detect and monitor frontliners’ emotional states and mental health, as well as encourage help-seeking behaviour in the face of unprecedented uncertainty and stress from COVID-19. Through a comprehensive approach based on scientific data and evidence, we aim to promote a virtual hug of assistance through this support system, during difficult times characterised by social distancing and isolation.
 
 # Pitch Video
+
+
 https://www.youtube.com/watch?v=mFOYFe1B1OA
 
 # Architecture of Proposed Solution 
