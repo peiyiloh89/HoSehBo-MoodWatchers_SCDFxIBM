@@ -24,6 +24,10 @@ These concerns and limitations have therefore propelled us to propose the follow
 https://www.youtube.com/watch?v=mFOYFe1B1OA
 
 # Architecture of Proposed Solution 
+MoodWatcher emcompasses an array of features and functionalities, which can be classified into the following three categories:
+
+## Mood Detection
+Real-time emotional detection capabilities will be embedded in various forms of wearable technology as IoT-compatible modules. The most prominent 
 
 # MoodWatchers
 
